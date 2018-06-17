@@ -1,12 +1,13 @@
 <resources>
     <string name="app_name">BookStore</string>
     <string name="textToShowFirst">The books table contains %1$d item(s).\n\n</string>
-    <string name="column_product_name_text">product_name</string>
+
     <string name="table_name">books</string>
-    <!--<string name="app_name">BookStore</string>-->
-    <!--<string name="app_name">BookStore</string>-->
-    <!--<string name="app_name">BookStore</string>-->
-    <!--<string name="app_name">BookStore</string>-->
+    <string name="column_product_name_title">product_name</string>
+    <string name="column_price_title">price</string>
+    <string name="column_quantity_title">quantity</string>
+    <string name="column_supplier_title">supplier_name</string>
+    <string name="column_supplier_pho_title">supplier_phone_number</string>
 
 
 </resources>
